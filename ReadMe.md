@@ -108,8 +108,8 @@ id: Kazakhstan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kazakhstan/
-markerFolder: ./Kazakhstan/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Kazakhstan] 
