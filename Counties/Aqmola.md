@@ -40,11 +40,18 @@ markerFolder: ./Aqmola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola|Aqmola]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.public|Aqmola.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.internal|Aqmola.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.protect|Aqmola.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.private|Aqmola.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.personal|Aqmola.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.secret|Aqmola.secret]] 
+
+### #is_/same_as :: [Aqmola](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.md) 
+
+### #is_/same_as :: [Aqmola.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.public.md) 
+
+### #is_/same_as :: [Aqmola.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.internal.md) 
+
+### #is_/same_as :: [Aqmola.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.protect.md) 
+
+### #is_/same_as :: [Aqmola.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.private.md) 
+
+### #is_/same_as :: [Aqmola.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.personal.md) 
+
+### #is_/same_as :: [Aqmola.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola.secret.md)
 

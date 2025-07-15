@@ -40,11 +40,18 @@ markerFolder: ./Qaraghandy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy|Qaraghandy]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.public|Qaraghandy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.internal|Qaraghandy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.protect|Qaraghandy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.private|Qaraghandy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.personal|Qaraghandy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.secret|Qaraghandy.secret]] 
+
+### #is_/same_as :: [Qaraghandy](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.md) 
+
+### #is_/same_as :: [Qaraghandy.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.public.md) 
+
+### #is_/same_as :: [Qaraghandy.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.internal.md) 
+
+### #is_/same_as :: [Qaraghandy.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.protect.md) 
+
+### #is_/same_as :: [Qaraghandy.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.private.md) 
+
+### #is_/same_as :: [Qaraghandy.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.personal.md) 
+
+### #is_/same_as :: [Qaraghandy.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qaraghandy.secret.md)
 

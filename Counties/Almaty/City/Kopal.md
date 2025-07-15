@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.13,79.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kopal|Kopal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kopal.public|Kopal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kopal.internal|Kopal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kopal.protect|Kopal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kopal.private|Kopal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kopal.personal|Kopal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kopal.secret|Kopal.secret]] 
+
+### #is_/same_as :: [Kopal](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.md) 
+
+### #is_/same_as :: [Kopal.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.public.md) 
+
+### #is_/same_as :: [Kopal.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.internal.md) 
+
+### #is_/same_as :: [Kopal.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.protect.md) 
+
+### #is_/same_as :: [Kopal.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.private.md) 
+
+### #is_/same_as :: [Kopal.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.personal.md) 
+
+### #is_/same_as :: [Kopal.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.secret.md)
+

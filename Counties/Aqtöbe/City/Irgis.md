@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.62,61.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Irgis|Irgis]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irgis.public|Irgis.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irgis.internal|Irgis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irgis.protect|Irgis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irgis.private|Irgis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irgis.personal|Irgis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irgis.secret|Irgis.secret]] 
+
+### #is_/same_as :: [Irgis](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.md) 
+
+### #is_/same_as :: [Irgis.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.public.md) 
+
+### #is_/same_as :: [Irgis.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.internal.md) 
+
+### #is_/same_as :: [Irgis.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.protect.md) 
+
+### #is_/same_as :: [Irgis.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.private.md) 
+
+### #is_/same_as :: [Irgis.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.personal.md) 
+
+### #is_/same_as :: [Irgis.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.secret.md)
+

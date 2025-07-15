@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.8,65.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kzyl-Orda|Kzyl-Orda]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kzyl-Orda.public|Kzyl-Orda.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kzyl-Orda.internal|Kzyl-Orda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kzyl-Orda.protect|Kzyl-Orda.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kzyl-Orda.private|Kzyl-Orda.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kzyl-Orda.personal|Kzyl-Orda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kzyl-Orda.secret|Kzyl-Orda.secret]] 
+
+### #is_/same_as :: [Kzyl-Orda](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.md) 
+
+### #is_/same_as :: [Kzyl-Orda.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.public.md) 
+
+### #is_/same_as :: [Kzyl-Orda.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.internal.md) 
+
+### #is_/same_as :: [Kzyl-Orda.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.protect.md) 
+
+### #is_/same_as :: [Kzyl-Orda.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.private.md) 
+
+### #is_/same_as :: [Kzyl-Orda.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.personal.md) 
+
+### #is_/same_as :: [Kzyl-Orda.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kzyl-Orda.secret.md)
+

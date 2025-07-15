@@ -40,11 +40,18 @@ markerFolder: ./Aqtöbe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe|Aqtöbe]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.public|Aqtöbe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.internal|Aqtöbe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.protect|Aqtöbe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.private|Aqtöbe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.personal|Aqtöbe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.secret|Aqtöbe.secret]] 
+
+### #is_/same_as :: [Aqtöbe](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.md) 
+
+### #is_/same_as :: [Aqtöbe.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.public.md) 
+
+### #is_/same_as :: [Aqtöbe.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.internal.md) 
+
+### #is_/same_as :: [Aqtöbe.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.protect.md) 
+
+### #is_/same_as :: [Aqtöbe.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.private.md) 
+
+### #is_/same_as :: [Aqtöbe.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.personal.md) 
+
+### #is_/same_as :: [Aqtöbe.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe.secret.md)
 

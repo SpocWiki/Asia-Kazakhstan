@@ -40,11 +40,18 @@ markerFolder: ./Almaty_City/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City|Almaty_City]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.public|Almaty_City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal|Almaty_City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect|Almaty_City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private|Almaty_City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal|Almaty_City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret|Almaty_City.secret]] 
+
+### #is_/same_as :: [Almaty_City](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.md) 
+
+### #is_/same_as :: [Almaty_City.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.public.md) 
+
+### #is_/same_as :: [Almaty_City.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.internal.md) 
+
+### #is_/same_as :: [Almaty_City.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.protect.md) 
+
+### #is_/same_as :: [Almaty_City.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.private.md) 
+
+### #is_/same_as :: [Almaty_City.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.personal.md) 
+
+### #is_/same_as :: [Almaty_City.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty_City.secret.md)
 

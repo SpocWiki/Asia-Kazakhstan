@@ -40,11 +40,18 @@ markerFolder: ./Baykonur_lease_in_Qyzylorda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda|Baykonur_lease_in_Qyzylorda]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.public|Baykonur_lease_in_Qyzylorda.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal|Baykonur_lease_in_Qyzylorda.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect|Baykonur_lease_in_Qyzylorda.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private|Baykonur_lease_in_Qyzylorda.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal|Baykonur_lease_in_Qyzylorda.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret|Baykonur_lease_in_Qyzylorda.secret]] 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.public.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.internal.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.protect.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.private.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.personal.md) 
+
+### #is_/same_as :: [Baykonur_lease_in_Qyzylorda.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.87,72.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tiukalinsk|Tiukalinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tiukalinsk.public|Tiukalinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiukalinsk.internal|Tiukalinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiukalinsk.protect|Tiukalinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tiukalinsk.private|Tiukalinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiukalinsk.personal|Tiukalinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiukalinsk.secret|Tiukalinsk.secret]] 
+
+### #is_/same_as :: [Tiukalinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.md) 
+
+### #is_/same_as :: [Tiukalinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.public.md) 
+
+### #is_/same_as :: [Tiukalinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.internal.md) 
+
+### #is_/same_as :: [Tiukalinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.protect.md) 
+
+### #is_/same_as :: [Tiukalinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.private.md) 
+
+### #is_/same_as :: [Tiukalinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.personal.md) 
+
+### #is_/same_as :: [Tiukalinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.secret.md)
+

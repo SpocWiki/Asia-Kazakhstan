@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.63,63.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Turgai|Turgai]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turgai.public|Turgai.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turgai.internal|Turgai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turgai.protect|Turgai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turgai.private|Turgai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turgai.personal|Turgai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turgai.secret|Turgai.secret]] 
+
+### #is_/same_as :: [Turgai](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.md) 
+
+### #is_/same_as :: [Turgai.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.public.md) 
+
+### #is_/same_as :: [Turgai.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.internal.md) 
+
+### #is_/same_as :: [Turgai.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.protect.md) 
+
+### #is_/same_as :: [Turgai.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.private.md) 
+
+### #is_/same_as :: [Turgai.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.personal.md) 
+
+### #is_/same_as :: [Turgai.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.secret.md)
+

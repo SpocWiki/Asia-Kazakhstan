@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.9,71.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Aulié-Ata|Aulié-Ata]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aulié-Ata.public|Aulié-Ata.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aulié-Ata.internal|Aulié-Ata.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aulié-Ata.protect|Aulié-Ata.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aulié-Ata.private|Aulié-Ata.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aulié-Ata.personal|Aulié-Ata.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aulié-Ata.secret|Aulié-Ata.secret]] 
+
+### #is_/same_as :: [Aulié-Ata](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.md) 
+
+### #is_/same_as :: [Aulié-Ata.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.public.md) 
+
+### #is_/same_as :: [Aulié-Ata.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.internal.md) 
+
+### #is_/same_as :: [Aulié-Ata.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.protect.md) 
+
+### #is_/same_as :: [Aulié-Ata.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.private.md) 
+
+### #is_/same_as :: [Aulié-Ata.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.personal.md) 
+
+### #is_/same_as :: [Aulié-Ata.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.88,69.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Petropawlowsk|Petropawlowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk.public|Petropawlowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petropawlowsk.internal|Petropawlowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petropawlowsk.protect|Petropawlowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petropawlowsk.private|Petropawlowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petropawlowsk.personal|Petropawlowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petropawlowsk.secret|Petropawlowsk.secret]] 
+
+### #is_/same_as :: [Petropawlowsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.md) 
+
+### #is_/same_as :: [Petropawlowsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.public.md) 
+
+### #is_/same_as :: [Petropawlowsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.internal.md) 
+
+### #is_/same_as :: [Petropawlowsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.protect.md) 
+
+### #is_/same_as :: [Petropawlowsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.private.md) 
+
+### #is_/same_as :: [Petropawlowsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.personal.md) 
+
+### #is_/same_as :: [Petropawlowsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.secret.md)
+

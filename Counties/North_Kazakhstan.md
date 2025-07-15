@@ -40,11 +40,18 @@ markerFolder: ./North_Kazakhstan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan|North_Kazakhstan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.public|North_Kazakhstan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.internal|North_Kazakhstan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.protect|North_Kazakhstan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.private|North_Kazakhstan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.personal|North_Kazakhstan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.secret|North_Kazakhstan.secret]] 
+
+### #is_/same_as :: [North_Kazakhstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.md) 
+
+### #is_/same_as :: [North_Kazakhstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.public.md) 
+
+### #is_/same_as :: [North_Kazakhstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.internal.md) 
+
+### #is_/same_as :: [North_Kazakhstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.protect.md) 
+
+### #is_/same_as :: [North_Kazakhstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.private.md) 
+
+### #is_/same_as :: [North_Kazakhstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.personal.md) 
+
+### #is_/same_as :: [North_Kazakhstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan.secret.md)
 

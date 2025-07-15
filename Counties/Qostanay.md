@@ -40,11 +40,18 @@ markerFolder: ./Qostanay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay|Qostanay]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.public|Qostanay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.internal|Qostanay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.protect|Qostanay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.private|Qostanay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.personal|Qostanay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.secret|Qostanay.secret]] 
+
+### #is_/same_as :: [Qostanay](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.md) 
+
+### #is_/same_as :: [Qostanay.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.public.md) 
+
+### #is_/same_as :: [Qostanay.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.internal.md) 
+
+### #is_/same_as :: [Qostanay.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.protect.md) 
+
+### #is_/same_as :: [Qostanay.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.private.md) 
+
+### #is_/same_as :: [Qostanay.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.personal.md) 
+
+### #is_/same_as :: [Qostanay.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay.secret.md)
 

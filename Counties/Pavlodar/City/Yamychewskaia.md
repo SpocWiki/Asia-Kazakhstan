@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.88,77.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Yamychewskaia|Yamychewskaia]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yamychewskaia.public|Yamychewskaia.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yamychewskaia.internal|Yamychewskaia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yamychewskaia.protect|Yamychewskaia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yamychewskaia.private|Yamychewskaia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yamychewskaia.personal|Yamychewskaia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yamychewskaia.secret|Yamychewskaia.secret]] 
+
+### #is_/same_as :: [Yamychewskaia](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.md) 
+
+### #is_/same_as :: [Yamychewskaia.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.public.md) 
+
+### #is_/same_as :: [Yamychewskaia.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.internal.md) 
+
+### #is_/same_as :: [Yamychewskaia.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.protect.md) 
+
+### #is_/same_as :: [Yamychewskaia.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.private.md) 
+
+### #is_/same_as :: [Yamychewskaia.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.personal.md) 
+
+### #is_/same_as :: [Yamychewskaia.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.secret.md)
+

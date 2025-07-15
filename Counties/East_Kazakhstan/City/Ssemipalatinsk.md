@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4,80.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ssemipalatinsk|Ssemipalatinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ssemipalatinsk.public|Ssemipalatinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.internal|Ssemipalatinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ssemipalatinsk.protect|Ssemipalatinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ssemipalatinsk.private|Ssemipalatinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.personal|Ssemipalatinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ssemipalatinsk.secret|Ssemipalatinsk.secret]] 
+
+### #is_/same_as :: [Ssemipalatinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.public.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.internal.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.protect.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.private.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.personal.md) 
+
+### #is_/same_as :: [Ssemipalatinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.secret.md)
+

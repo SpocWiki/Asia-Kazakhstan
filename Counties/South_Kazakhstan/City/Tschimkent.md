@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.3,69.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tschimkent|Tschimkent]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschimkent.public|Tschimkent.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschimkent.internal|Tschimkent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschimkent.protect|Tschimkent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschimkent.private|Tschimkent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschimkent.personal|Tschimkent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschimkent.secret|Tschimkent.secret]] 
+
+### #is_/same_as :: [Tschimkent](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.md) 
+
+### #is_/same_as :: [Tschimkent.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.public.md) 
+
+### #is_/same_as :: [Tschimkent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.internal.md) 
+
+### #is_/same_as :: [Tschimkent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.protect.md) 
+
+### #is_/same_as :: [Tschimkent.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.private.md) 
+
+### #is_/same_as :: [Tschimkent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.personal.md) 
+
+### #is_/same_as :: [Tschimkent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Tschimkent.secret.md)
+

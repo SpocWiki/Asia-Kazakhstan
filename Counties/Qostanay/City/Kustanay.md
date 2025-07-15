@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.17,63.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kustanay|Kustanay]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kustanay.public|Kustanay.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kustanay.internal|Kustanay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kustanay.protect|Kustanay.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kustanay.private|Kustanay.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kustanay.personal|Kustanay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kustanay.secret|Kustanay.secret]] 
+
+### #is_/same_as :: [Kustanay](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.md) 
+
+### #is_/same_as :: [Kustanay.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.public.md) 
+
+### #is_/same_as :: [Kustanay.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.internal.md) 
+
+### #is_/same_as :: [Kustanay.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.protect.md) 
+
+### #is_/same_as :: [Kustanay.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.private.md) 
+
+### #is_/same_as :: [Kustanay.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.personal.md) 
+
+### #is_/same_as :: [Kustanay.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Kustanay.secret.md)
+

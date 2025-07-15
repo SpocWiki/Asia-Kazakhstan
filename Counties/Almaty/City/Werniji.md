@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.27,76.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Werniji|Werniji]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werniji.public|Werniji.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werniji.internal|Werniji.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werniji.protect|Werniji.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werniji.private|Werniji.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werniji.personal|Werniji.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werniji.secret|Werniji.secret]] 
+
+### #is_/same_as :: [Werniji](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.md) 
+
+### #is_/same_as :: [Werniji.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.public.md) 
+
+### #is_/same_as :: [Werniji.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.internal.md) 
+
+### #is_/same_as :: [Werniji.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.protect.md) 
+
+### #is_/same_as :: [Werniji.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.private.md) 
+
+### #is_/same_as :: [Werniji.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.personal.md) 
+
+### #is_/same_as :: [Werniji.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.secret.md)
+

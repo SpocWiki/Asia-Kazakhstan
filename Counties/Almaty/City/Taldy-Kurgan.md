@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45,78.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Taldy-Kurgan|Taldy-Kurgan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Taldy-Kurgan.public|Taldy-Kurgan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Taldy-Kurgan.internal|Taldy-Kurgan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Taldy-Kurgan.protect|Taldy-Kurgan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Taldy-Kurgan.private|Taldy-Kurgan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Taldy-Kurgan.personal|Taldy-Kurgan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Taldy-Kurgan.secret|Taldy-Kurgan.secret]] 
+
+### #is_/same_as :: [Taldy-Kurgan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.public.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.internal.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.protect.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.private.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.personal.md) 
+
+### #is_/same_as :: [Taldy-Kurgan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.47,84.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Zaisan|Zaisan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Zaisan.public|Zaisan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaisan.internal|Zaisan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaisan.protect|Zaisan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zaisan.private|Zaisan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaisan.personal|Zaisan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaisan.secret|Zaisan.secret]] 
+
+### #is_/same_as :: [Zaisan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.md) 
+
+### #is_/same_as :: [Zaisan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.public.md) 
+
+### #is_/same_as :: [Zaisan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.internal.md) 
+
+### #is_/same_as :: [Zaisan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.protect.md) 
+
+### #is_/same_as :: [Zaisan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.private.md) 
+
+### #is_/same_as :: [Zaisan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.personal.md) 
+
+### #is_/same_as :: [Zaisan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.secret.md)
+

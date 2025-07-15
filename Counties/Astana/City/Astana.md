@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana|Astana]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.public|Astana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.internal|Astana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.protect|Astana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.private|Astana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.personal|Astana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kazakhstan/City/Astana.secret|Astana.secret]] 
+
+### #is_/same_as :: [Astana](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.md) 
+
+### #is_/same_as :: [Astana.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.public.md) 
+
+### #is_/same_as :: [Astana.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.internal.md) 
+
+### #is_/same_as :: [Astana.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.protect.md) 
+
+### #is_/same_as :: [Astana.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.private.md) 
+
+### #is_/same_as :: [Astana.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.personal.md) 
+
+### #is_/same_as :: [Astana.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.secret.md)
+
