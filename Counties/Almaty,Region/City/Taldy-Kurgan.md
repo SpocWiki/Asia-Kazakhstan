@@ -33,7 +33,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taldy-Kurgan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.md) 
+### #is_/same_as :: [Taldy-Kurgan](Taldy-Kurgan.md) 
 
 ### #is_/same_as :: [Taldy-Kurgan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Taldy-Kurgan.public.md) 
 

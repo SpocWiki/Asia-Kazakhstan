@@ -33,7 +33,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kopal](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.md) 
+### #is_/same_as :: [Kopal](Kopal.md) 
 
 ### #is_/same_as :: [Kopal.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Kopal.public.md) 
 

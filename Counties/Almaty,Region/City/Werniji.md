@@ -33,7 +33,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Werniji](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.md) 
+### #is_/same_as :: [Werniji](Werniji.md) 
 
 ### #is_/same_as :: [Werniji.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty/City/Werniji.public.md) 
 
