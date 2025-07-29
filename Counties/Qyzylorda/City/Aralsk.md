@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+# [[Aralsk]] 
+
 [geo-lon::61.78] 
 [geo-lat::46.05] 
 [name::Aralsk] 
