@@ -159,19 +159,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astana) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astana,City](Astana,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City|Astana,City]] 
 
-### #is_/same_as :: [Astana.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.public|Astana,City.public]] 
 
-### #is_/same_as :: [Astana.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.internal|Astana,City.internal]] 
 
-### #is_/same_as :: [Astana.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.protect|Astana,City.protect]] 
 
-### #is_/same_as :: [Astana.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.private|Astana,City.private]] 
 
-### #is_/same_as :: [Astana.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.personal|Astana,City.personal]] 
 
-### #is_/same_as :: [Astana.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Astana,City.secret|Astana,City.secret]] 
 

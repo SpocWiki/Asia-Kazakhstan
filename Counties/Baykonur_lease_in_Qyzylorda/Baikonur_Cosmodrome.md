@@ -52,3 +52,20 @@ coordinate_location: Point(63.3051 45.9648)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baikonur%20Cosmodrome) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome|Baikonur_Cosmodrome]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.public|Baikonur_Cosmodrome.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.internal|Baikonur_Cosmodrome.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.protect|Baikonur_Cosmodrome.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.private|Baikonur_Cosmodrome.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.personal|Baikonur_Cosmodrome.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Baykonur_lease_in_Qyzylorda/Baikonur_Cosmodrome.secret|Baikonur_Cosmodrome.secret]] 
+

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Akmolinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk|Akmolinsk]] 
 
-### #is_/same_as :: [Akmolinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.public|Akmolinsk.public]] 
 
-### #is_/same_as :: [Akmolinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.internal|Akmolinsk.internal]] 
 
-### #is_/same_as :: [Akmolinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.protect|Akmolinsk.protect]] 
 
-### #is_/same_as :: [Akmolinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.private|Akmolinsk.private]] 
 
-### #is_/same_as :: [Akmolinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.personal|Akmolinsk.personal]] 
 
-### #is_/same_as :: [Akmolinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana/City/Akmolinsk.secret|Akmolinsk.secret]] 
 

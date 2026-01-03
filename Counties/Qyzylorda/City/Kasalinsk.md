@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kasalinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk|Kasalinsk]] 
 
-### #is_/same_as :: [Kasalinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.public|Kasalinsk.public]] 
 
-### #is_/same_as :: [Kasalinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.internal|Kasalinsk.internal]] 
 
-### #is_/same_as :: [Kasalinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.protect|Kasalinsk.protect]] 
 
-### #is_/same_as :: [Kasalinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.private|Kasalinsk.private]] 
 
-### #is_/same_as :: [Kasalinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.personal|Kasalinsk.personal]] 
 
-### #is_/same_as :: [Kasalinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Kasalinsk.secret|Kasalinsk.secret]] 
 

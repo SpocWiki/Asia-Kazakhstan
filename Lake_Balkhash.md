@@ -55,3 +55,20 @@ coordinate_location: Point(74.878888888 46.540833333)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Balkhash) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash|Lake_Balkhash]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.public|Lake_Balkhash.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.internal|Lake_Balkhash.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.protect|Lake_Balkhash.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.private|Lake_Balkhash.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.personal|Lake_Balkhash.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Lake_Balkhash.secret|Lake_Balkhash.secret]] 
+

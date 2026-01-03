@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ssemipalatinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk|Ssemipalatinsk]] 
 
-### #is_/same_as :: [Ssemipalatinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.public|Ssemipalatinsk.public]] 
 
-### #is_/same_as :: [Ssemipalatinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.internal|Ssemipalatinsk.internal]] 
 
-### #is_/same_as :: [Ssemipalatinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.protect|Ssemipalatinsk.protect]] 
 
-### #is_/same_as :: [Ssemipalatinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.private|Ssemipalatinsk.private]] 
 
-### #is_/same_as :: [Ssemipalatinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.personal|Ssemipalatinsk.personal]] 
 
-### #is_/same_as :: [Ssemipalatinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ssemipalatinsk.secret|Ssemipalatinsk.secret]] 
 

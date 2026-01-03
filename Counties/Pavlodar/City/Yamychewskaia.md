@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yamychewskaia](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia|Yamychewskaia]] 
 
-### #is_/same_as :: [Yamychewskaia.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.public|Yamychewskaia.public]] 
 
-### #is_/same_as :: [Yamychewskaia.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.internal|Yamychewskaia.internal]] 
 
-### #is_/same_as :: [Yamychewskaia.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.protect|Yamychewskaia.protect]] 
 
-### #is_/same_as :: [Yamychewskaia.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.private|Yamychewskaia.private]] 
 
-### #is_/same_as :: [Yamychewskaia.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.personal|Yamychewskaia.personal]] 
 
-### #is_/same_as :: [Yamychewskaia.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Yamychewskaia.secret|Yamychewskaia.secret]] 
 

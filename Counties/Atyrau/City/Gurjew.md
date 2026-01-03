@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gurjew](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew|Gurjew]] 
 
-### #is_/same_as :: [Gurjew.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.public|Gurjew.public]] 
 
-### #is_/same_as :: [Gurjew.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.internal|Gurjew.internal]] 
 
-### #is_/same_as :: [Gurjew.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.protect|Gurjew.protect]] 
 
-### #is_/same_as :: [Gurjew.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.private|Gurjew.private]] 
 
-### #is_/same_as :: [Gurjew.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.personal|Gurjew.personal]] 
 
-### #is_/same_as :: [Gurjew.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau/City/Gurjew.secret|Gurjew.secret]] 
 

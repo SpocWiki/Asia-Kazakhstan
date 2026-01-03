@@ -37,17 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fort-Shevchenko](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko|Fort-Shevchenko]] 
 
-### #is_/same_as :: [Fort-Shevchenko.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.public|Fort-Shevchenko.public]] 
 
-### #is_/same_as :: [Fort-Shevchenko.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.internal|Fort-Shevchenko.internal]] 
 
-### #is_/same_as :: [Fort-Shevchenko.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.protect|Fort-Shevchenko.protect]] 
 
-### #is_/same_as :: [Fort-Shevchenko.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.private|Fort-Shevchenko.private]] 
 
-### #is_/same_as :: [Fort-Shevchenko.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.personal|Fort-Shevchenko.personal]] 
 
-### #is_/same_as :: [Fort-Shevchenko.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Mangghystau/Fort-Shevchenko.secret|Fort-Shevchenko.secret]] 
 

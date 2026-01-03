@@ -40,17 +40,17 @@ markerFolder: ./Atyrau/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atyrau](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau|Atyrau]] 
 
-### #is_/same_as :: [Atyrau.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.public|Atyrau.public]] 
 
-### #is_/same_as :: [Atyrau.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.internal|Atyrau.internal]] 
 
-### #is_/same_as :: [Atyrau.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.protect|Atyrau.protect]] 
 
-### #is_/same_as :: [Atyrau.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.private|Atyrau.private]] 
 
-### #is_/same_as :: [Atyrau.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.personal|Atyrau.personal]] 
 
-### #is_/same_as :: [Atyrau.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Atyrau.secret|Atyrau.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uralsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk|Uralsk]] 
 
-### #is_/same_as :: [Uralsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.public|Uralsk.public]] 
 
-### #is_/same_as :: [Uralsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.internal|Uralsk.internal]] 
 
-### #is_/same_as :: [Uralsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.protect|Uralsk.protect]] 
 
-### #is_/same_as :: [Uralsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.private|Uralsk.private]] 
 
-### #is_/same_as :: [Uralsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.personal|Uralsk.personal]] 
 
-### #is_/same_as :: [Uralsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan/City/Uralsk.secret|Uralsk.secret]] 
 

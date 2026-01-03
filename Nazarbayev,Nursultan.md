@@ -210,3 +210,20 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nursultan%20Nazarbayev) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan|Nazarbayev,Nursultan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.public|Nazarbayev,Nursultan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.internal|Nazarbayev,Nursultan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.protect|Nazarbayev,Nursultan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.private|Nazarbayev,Nursultan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.personal|Nazarbayev,Nursultan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Nazarbayev,Nursultan.secret|Nazarbayev,Nursultan.secret]] 
+

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ust-Kamenogorsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk|Ust-Kamenogorsk]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.public|Ust-Kamenogorsk.public]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.internal|Ust-Kamenogorsk.internal]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.protect|Ust-Kamenogorsk.protect]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.private|Ust-Kamenogorsk.private]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.personal|Ust-Kamenogorsk.personal]] 
 
-### #is_/same_as :: [Ust-Kamenogorsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Ust-Kamenogorsk.secret|Ust-Kamenogorsk.secret]] 
 

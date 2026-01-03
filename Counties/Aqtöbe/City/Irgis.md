@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irgis](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis|Irgis]] 
 
-### #is_/same_as :: [Irgis.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.public|Irgis.public]] 
 
-### #is_/same_as :: [Irgis.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.internal|Irgis.internal]] 
 
-### #is_/same_as :: [Irgis.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.protect|Irgis.protect]] 
 
-### #is_/same_as :: [Irgis.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.private|Irgis.private]] 
 
-### #is_/same_as :: [Irgis.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.personal|Irgis.personal]] 
 
-### #is_/same_as :: [Irgis.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqtöbe/City/Irgis.secret|Irgis.secret]] 
 

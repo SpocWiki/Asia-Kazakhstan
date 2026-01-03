@@ -40,17 +40,17 @@ markerFolder: ./Pavlodar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pavlodar](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar|Pavlodar]] 
 
-### #is_/same_as :: [Pavlodar.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.public|Pavlodar.public]] 
 
-### #is_/same_as :: [Pavlodar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.internal|Pavlodar.internal]] 
 
-### #is_/same_as :: [Pavlodar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.protect|Pavlodar.protect]] 
 
-### #is_/same_as :: [Pavlodar.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.private|Pavlodar.private]] 
 
-### #is_/same_as :: [Pavlodar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.personal|Pavlodar.personal]] 
 
-### #is_/same_as :: [Pavlodar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar.secret|Pavlodar.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Djambul](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul|Djambul]] 
 
-### #is_/same_as :: [Djambul.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.public|Djambul.public]] 
 
-### #is_/same_as :: [Djambul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.internal|Djambul.internal]] 
 
-### #is_/same_as :: [Djambul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.protect|Djambul.protect]] 
 
-### #is_/same_as :: [Djambul.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.private|Djambul.private]] 
 
-### #is_/same_as :: [Djambul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.personal|Djambul.personal]] 
 
-### #is_/same_as :: [Djambul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Djambul.secret|Djambul.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turgai](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai|Turgai]] 
 
-### #is_/same_as :: [Turgai.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.public|Turgai.public]] 
 
-### #is_/same_as :: [Turgai.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.internal|Turgai.internal]] 
 
-### #is_/same_as :: [Turgai.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.protect|Turgai.protect]] 
 
-### #is_/same_as :: [Turgai.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.private|Turgai.private]] 
 
-### #is_/same_as :: [Turgai.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.personal|Turgai.personal]] 
 
-### #is_/same_as :: [Turgai.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qostanay/City/Turgai.secret|Turgai.secret]] 
 

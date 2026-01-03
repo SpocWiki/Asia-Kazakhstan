@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kokchetav](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav|Kokchetav]] 
 
-### #is_/same_as :: [Kokchetav.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.public|Kokchetav.public]] 
 
-### #is_/same_as :: [Kokchetav.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.internal|Kokchetav.internal]] 
 
-### #is_/same_as :: [Kokchetav.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.protect|Kokchetav.protect]] 
 
-### #is_/same_as :: [Kokchetav.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.private|Kokchetav.private]] 
 
-### #is_/same_as :: [Kokchetav.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.personal|Kokchetav.personal]] 
 
-### #is_/same_as :: [Kokchetav.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Kokchetav.secret|Kokchetav.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kazala](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala|Kazala]] 
 
-### #is_/same_as :: [Kazala.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.public|Kazala.public]] 
 
-### #is_/same_as :: [Kazala.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.internal|Kazala.internal]] 
 
-### #is_/same_as :: [Kazala.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.protect|Kazala.protect]] 
 
-### #is_/same_as :: [Kazala.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.private|Kazala.private]] 
 
-### #is_/same_as :: [Kazala.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.personal|Kazala.personal]] 
 
-### #is_/same_as :: [Kazala.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/South_Kazakhstan/City/Kazala.secret|Kazala.secret]] 
 

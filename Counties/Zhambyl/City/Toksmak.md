@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toksmak](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak|Toksmak]] 
 
-### #is_/same_as :: [Toksmak.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.public|Toksmak.public]] 
 
-### #is_/same_as :: [Toksmak.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.internal|Toksmak.internal]] 
 
-### #is_/same_as :: [Toksmak.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.protect|Toksmak.protect]] 
 
-### #is_/same_as :: [Toksmak.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.private|Toksmak.private]] 
 
-### #is_/same_as :: [Toksmak.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.personal|Toksmak.personal]] 
 
-### #is_/same_as :: [Toksmak.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Toksmak.secret|Toksmak.secret]] 
 

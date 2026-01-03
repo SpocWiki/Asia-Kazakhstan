@@ -114,3 +114,20 @@ defaultZoom: 8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aral%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea|Aral Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.public|Aral Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.internal|Aral Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.protect|Aral Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.private|Aral Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.personal|Aral Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/_Lakes/Aral Sea.secret|Aral Sea.secret]] 
+

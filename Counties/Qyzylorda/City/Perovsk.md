@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perovsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk|Perovsk]] 
 
-### #is_/same_as :: [Perovsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.public|Perovsk.public]] 
 
-### #is_/same_as :: [Perovsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.internal|Perovsk.internal]] 
 
-### #is_/same_as :: [Perovsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.protect|Perovsk.protect]] 
 
-### #is_/same_as :: [Perovsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.private|Perovsk.private]] 
 
-### #is_/same_as :: [Perovsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.personal|Perovsk.personal]] 
 
-### #is_/same_as :: [Perovsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Perovsk.secret|Perovsk.secret]] 
 

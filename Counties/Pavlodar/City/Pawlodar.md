@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pawlodar](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar|Pawlodar]] 
 
-### #is_/same_as :: [Pawlodar.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.public|Pawlodar.public]] 
 
-### #is_/same_as :: [Pawlodar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.internal|Pawlodar.internal]] 
 
-### #is_/same_as :: [Pawlodar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.protect|Pawlodar.protect]] 
 
-### #is_/same_as :: [Pawlodar.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.private|Pawlodar.private]] 
 
-### #is_/same_as :: [Pawlodar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.personal|Pawlodar.personal]] 
 
-### #is_/same_as :: [Pawlodar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Pavlodar/City/Pawlodar.secret|Pawlodar.secret]] 
 

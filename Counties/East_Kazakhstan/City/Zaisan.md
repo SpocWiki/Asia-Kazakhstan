@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zaisan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan|Zaisan]] 
 
-### #is_/same_as :: [Zaisan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.public|Zaisan.public]] 
 
-### #is_/same_as :: [Zaisan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.internal|Zaisan.internal]] 
 
-### #is_/same_as :: [Zaisan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.protect|Zaisan.protect]] 
 
-### #is_/same_as :: [Zaisan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.private|Zaisan.private]] 
 
-### #is_/same_as :: [Zaisan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.personal|Zaisan.personal]] 
 
-### #is_/same_as :: [Zaisan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/East_Kazakhstan/City/Zaisan.secret|Zaisan.secret]] 
 

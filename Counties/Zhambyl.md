@@ -40,17 +40,17 @@ markerFolder: ./Zhambyl/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zhambyl](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl|Zhambyl]] 
 
-### #is_/same_as :: [Zhambyl.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.public|Zhambyl.public]] 
 
-### #is_/same_as :: [Zhambyl.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.internal|Zhambyl.internal]] 
 
-### #is_/same_as :: [Zhambyl.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.protect|Zhambyl.protect]] 
 
-### #is_/same_as :: [Zhambyl.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.private|Zhambyl.private]] 
 
-### #is_/same_as :: [Zhambyl.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.personal|Zhambyl.personal]] 
 
-### #is_/same_as :: [Zhambyl.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl.secret|Zhambyl.secret]] 
 

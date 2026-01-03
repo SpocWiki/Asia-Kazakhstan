@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aulié-Ata](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata|Aulié-Ata]] 
 
-### #is_/same_as :: [Aulié-Ata.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.public|Aulié-Ata.public]] 
 
-### #is_/same_as :: [Aulié-Ata.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.internal|Aulié-Ata.internal]] 
 
-### #is_/same_as :: [Aulié-Ata.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.protect|Aulié-Ata.protect]] 
 
-### #is_/same_as :: [Aulié-Ata.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.private|Aulié-Ata.private]] 
 
-### #is_/same_as :: [Aulié-Ata.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.personal|Aulié-Ata.personal]] 
 
-### #is_/same_as :: [Aulié-Ata.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Zhambyl/City/Aulié-Ata.secret|Aulié-Ata.secret]] 
 

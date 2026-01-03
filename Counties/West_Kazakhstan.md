@@ -40,17 +40,17 @@ markerFolder: ./West_Kazakhstan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Kazakhstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan|West_Kazakhstan]] 
 
-### #is_/same_as :: [West_Kazakhstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.public|West_Kazakhstan.public]] 
 
-### #is_/same_as :: [West_Kazakhstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.internal|West_Kazakhstan.internal]] 
 
-### #is_/same_as :: [West_Kazakhstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.protect|West_Kazakhstan.protect]] 
 
-### #is_/same_as :: [West_Kazakhstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.private|West_Kazakhstan.private]] 
 
-### #is_/same_as :: [West_Kazakhstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.personal|West_Kazakhstan.personal]] 
 
-### #is_/same_as :: [West_Kazakhstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/West_Kazakhstan.secret|West_Kazakhstan.secret]] 
 

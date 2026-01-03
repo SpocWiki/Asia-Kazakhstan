@@ -94,19 +94,20 @@ markerFolder: ./Almaty/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Almaty%20Region) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Almaty,Region](Almaty,Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region|Almaty,Region]] 
 
-### #is_/same_as :: [Almaty.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.public|Almaty,Region.public]] 
 
-### #is_/same_as :: [Almaty.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.internal|Almaty,Region.internal]] 
 
-### #is_/same_as :: [Almaty.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.protect|Almaty,Region.protect]] 
 
-### #is_/same_as :: [Almaty.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.private|Almaty,Region.private]] 
 
-### #is_/same_as :: [Almaty.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.personal|Almaty,Region.personal]] 
 
-### #is_/same_as :: [Almaty.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Almaty,Region.secret|Almaty,Region.secret]] 
 

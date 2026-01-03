@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tiukalinsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk|Tiukalinsk]] 
 
-### #is_/same_as :: [Tiukalinsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.public|Tiukalinsk.public]] 
 
-### #is_/same_as :: [Tiukalinsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.internal|Tiukalinsk.internal]] 
 
-### #is_/same_as :: [Tiukalinsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.protect|Tiukalinsk.protect]] 
 
-### #is_/same_as :: [Tiukalinsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.private|Tiukalinsk.private]] 
 
-### #is_/same_as :: [Tiukalinsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.personal|Tiukalinsk.personal]] 
 
-### #is_/same_as :: [Tiukalinsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Aqmola/City/Tiukalinsk.secret|Tiukalinsk.secret]] 
 

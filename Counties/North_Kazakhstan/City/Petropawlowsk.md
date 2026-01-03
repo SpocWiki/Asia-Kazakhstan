@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petropawlowsk](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk|Petropawlowsk]] 
 
-### #is_/same_as :: [Petropawlowsk.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.public|Petropawlowsk.public]] 
 
-### #is_/same_as :: [Petropawlowsk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.internal|Petropawlowsk.internal]] 
 
-### #is_/same_as :: [Petropawlowsk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.protect|Petropawlowsk.protect]] 
 
-### #is_/same_as :: [Petropawlowsk.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.private|Petropawlowsk.private]] 
 
-### #is_/same_as :: [Petropawlowsk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.personal|Petropawlowsk.personal]] 
 
-### #is_/same_as :: [Petropawlowsk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk.secret|Petropawlowsk.secret]] 
 

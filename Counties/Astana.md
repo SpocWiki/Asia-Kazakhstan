@@ -40,17 +40,17 @@ markerFolder: ./Astana/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astana](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana|Astana]] 
 
-### #is_/same_as :: [Astana.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.public|Astana.public]] 
 
-### #is_/same_as :: [Astana.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.internal|Astana.internal]] 
 
-### #is_/same_as :: [Astana.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.protect|Astana.protect]] 
 
-### #is_/same_as :: [Astana.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.private|Astana.private]] 
 
-### #is_/same_as :: [Astana.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.personal|Astana.personal]] 
 
-### #is_/same_as :: [Astana.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Astana.secret|Astana.secret]] 
 

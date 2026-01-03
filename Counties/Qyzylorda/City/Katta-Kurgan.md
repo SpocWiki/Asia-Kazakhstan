@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Katta-Kurgan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan|Katta-Kurgan]] 
 
-### #is_/same_as :: [Katta-Kurgan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.public|Katta-Kurgan.public]] 
 
-### #is_/same_as :: [Katta-Kurgan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.internal|Katta-Kurgan.internal]] 
 
-### #is_/same_as :: [Katta-Kurgan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.protect|Katta-Kurgan.protect]] 
 
-### #is_/same_as :: [Katta-Kurgan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.private|Katta-Kurgan.private]] 
 
-### #is_/same_as :: [Katta-Kurgan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.personal|Katta-Kurgan.personal]] 
 
-### #is_/same_as :: [Katta-Kurgan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan/Counties/Qyzylorda/City/Katta-Kurgan.secret|Katta-Kurgan.secret]] 
 
