@@ -26,81 +26,81 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q35493
 capital_of:
-  - "[[db/Kazakh_Soviet_Socialist_Republic]]"
-  - "[[db/Almaty_Region]]"
-  - "[[db/Kazak_Autonomous_Socialist_Soviet_Republic]]"
-  - "[[db/Semirechye]]"
-  - "[[db/Verny_Uyezd]]"
+  - "[[db/Kazakh_Soviet_Socialist_Republic|Kazakh_Soviet_Socialist_Republic]]"
+  - "[[db/Almaty_Region|Almaty_Region]]"
+  - "[[db/Kazak_Autonomous_Socialist_Soviet_Republic|Kazak_Autonomous_Socialist_Soviet_Republic]]"
+  - "[[db/Semirechye|Semirechye]]"
+  - "[[db/Verny_Uyezd|Verny_Uyezd]]"
 twinned_administrative_body:
-  - "[[db/Meknes]]"
-  - "[[db/Jeddah]]"
-  - "[[db/Tashkent]]"
-  - "[[db/Modena]]"
-  - "[[db/Istanbul]]"
-  - "[[db/Rennes]]"
-  - "[[db/Saint_Petersburg]]"
-  - "[[db/Riga]]"
-  - "[[db/Mogadishu]]"
-  - "[[db/Antalya]]"
-  - "[[db/Bishkek]]"
-  - "[[db/Ürümqi]]"
-  - "[[db/Tucson]]"
-  - "[[db/Daegu]]"
-  - "[[db/Vilnius]]"
-  - "[[db/Tel_Aviv]]"
-  - "[[db/Rosario]]"
-enclave_within: "[[db/Almaty_Region]]"
+  - "[[db/Meknes|Meknes]]"
+  - "[[db/Jeddah|Jeddah]]"
+  - "[[db/Tashkent|Tashkent]]"
+  - "[[db/Modena|Modena]]"
+  - "[[db/Istanbul|Istanbul]]"
+  - "[[db/Rennes|Rennes]]"
+  - "[[db/Saint_Petersburg|Saint_Petersburg]]"
+  - "[[db/Riga|Riga]]"
+  - "[[db/Mogadishu|Mogadishu]]"
+  - "[[db/Antalya|Antalya]]"
+  - "[[db/Bishkek|Bishkek]]"
+  - "[[db/Ürümqi|Ürümqi]]"
+  - "[[db/Tucson|Tucson]]"
+  - "[[db/Daegu|Daegu]]"
+  - "[[db/Vilnius|Vilnius]]"
+  - "[[db/Tel_Aviv|Tel_Aviv]]"
+  - "[[db/Rosario|Rosario]]"
+enclave_within: "[[db/Almaty_Region|Almaty_Region]]"
 owner_of:
-  - "[[db/Almaty_Central_Stadium]]"
-  - "[[db/Abay_Opera_House]]"
-  - "[[db/Almaty_Arena]]"
-award_received: "[[db/Order_of_the_Red_Banner_of_Labour]]"
+  - "[[db/Almaty_Central_Stadium|Almaty_Central_Stadium]]"
+  - "[[db/Abay_Opera_House|Abay_Opera_House]]"
+  - "[[db/Almaty_Arena|Almaty_Arena]]"
+award_received: "[[db/Order_of_the_Red_Banner_of_Labour|Order_of_the_Red_Banner_of_Labour]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Q2041543]]"
-  - "[[db/Jewish_Encyclopedia_of_Brockhaus_and_Efron]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-  - "[[db/Great_dictionary_of_geographical_names]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1]]"
+  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary|Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[db/Encyclopædia_Britannica_11th_edition|Encyclopædia_Britannica_11th_edition]]"
+  - "[[db/Q2041543|Q2041543]]"
+  - "[[db/Jewish_Encyclopedia_of_Brockhaus_and_Efron|Jewish_Encyclopedia_of_Brockhaus_and_Efron]]"
+  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary|Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)|Great_Soviet_Encyclopedia_(1926_1947)]]"
+  - "[[db/Great_dictionary_of_geographical_names|Great_dictionary_of_geographical_names]]"
+  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1|Armenian_Soviet_Encyclopedia,_vol._1]]"
 member_of:
-  - "[[db/Creative_Cities_Network]]"
-  - "[[db/World_Tourism_Cities_Federation]]"
+  - "[[db/Creative_Cities_Network|Creative_Cities_Network]]"
+  - "[[db/World_Tourism_Cities_Federation|World_Tourism_Cities_Federation]]"
 located_in_time_zone:
-  - "[[db/Asia_Almaty]]"
-  - "[[db/UTC+06_00]]"
+  - "[[db/Asia_Almaty|Asia_Almaty]]"
+  - "[[db/UTC+06_00|UTC+06_00]]"
 maintained_by_WikiProject:
-  - "[[db/WikiProject_Cities]]"
-  - "[[db/WikiProject_Central_Asia]]"
-  - "[[db/WikiProject_Kazakhstan]]"
+  - "[[db/WikiProject_Cities|WikiProject_Cities]]"
+  - "[[db/WikiProject_Central_Asia|WikiProject_Central_Asia]]"
+  - "[[db/WikiProject_Kazakhstan|WikiProject_Kazakhstan]]"
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Almaty%20montage%202015.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/13%20%D0%92%D0%B8%D0%B4%20%D0%BD%D0%B0%20%D0%90%D0%BB%D0%BC%D0%B0-%D0%90%D1%82%D1%83%20%D1%81%20%D0%B3%D0%BE%D1%80%D1%8B%20%D0%9A%D0%BE%D0%BA%20%D0%A2%D1%8E%D0%B1%D0%B5.jpg
-category_for_people_buried_here: "[[db/Q7974641]]"
+category_for_people_buried_here: "[[db/Q7974641|Q7974641]]"
 instance_of:
-  - "[[db/city_of_republican_significance]]"
-  - "[[db/largest_city]]"
-  - "[[db/former_national_capital]]"
-  - "[[db/city]]"
-head_of_government: "[[db/Darhan_Satybaldy]]"
-category_for_people_born_here: "[[db/Q18665056]]"
+  - "[[db/city_of_republican_significance|city_of_republican_significance]]"
+  - "[[db/largest_city|largest_city]]"
+  - "[[db/former_national_capital|former_national_capital]]"
+  - "[[db/city|city]]"
+head_of_government: "[[db/Darhan_Satybaldy|Darhan_Satybaldy]]"
+category_for_people_born_here: "[[db/Q18665056|Q18665056]]"
 UN_LOCODE: KZALA
-replaces: "[[db/Verniy]]"
+replaces: "[[db/Verniy|Verniy]]"
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Almaty%20aerial%20view.jpg
 Facebook_username: almaty.gov.kz
 Instagram_username: akimat_almaty
 Telegram_username: almaty_akimat
-coat_of_arms: "[[db/coat_of_arms_of_Almaty]]"
+coat_of_arms: "[[db/coat_of_arms_of_Almaty|coat_of_arms_of_Almaty]]"
 official_website: https://almaty.kz
-economy_of_topic: "[[db/economy_of_Almaty]]"
+economy_of_topic: "[[db/economy_of_Almaty|economy_of_Almaty]]"
 coordinate_location: Point(76.915 43.24)
 inception: 1854-01-01T00:00:00Z
-present_in_work: "[[db/Civilization_V]]"
+present_in_work: "[[db/Civilization_V|Civilization_V]]"
 official_language:
-  - "[[db/Russian]]"
-  - "[[db/Kazakh]]"
-located_in_the_administrative_territorial_entity: "[[db/Kazakhstan]]"
-country: "[[db/Kazakhstan]]"
+  - "[[db/Russian|Russian]]"
+  - "[[db/Kazakh|Kazakh]]"
+located_in_the_administrative_territorial_entity: "[[db/Kazakhstan|Kazakhstan]]"
+country: "[[db/Kazakhstan|Kazakhstan]]"
 area: 682
 elevation_above_sea_level: 893
 local_dialing_code: "727"
@@ -142,7 +142,7 @@ geojsonFolder: ./Almaty_City/
 markerFolder: ./Almaty_City/
 ```
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Almaty,35493]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Almaty,35493|WD~Almaty,35493]] 
 
 ## #has_/text_of_/abstract 
 

@@ -117,7 +117,7 @@ markerFolder: ./
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::KZ] 
-Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]  
+Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City|Astana-City]]  
 
 ![[Kazakhstan/Emblem_of_Kazakhstan.svg|350]] 
 

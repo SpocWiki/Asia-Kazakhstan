@@ -26,22 +26,22 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q186466
 shares_border_with:
-  - "[[db/Karaganda_Region]]"
-  - "[[db/Chuy_Region]]"
-  - "[[db/Issyk_Kul_Region]]"
-instance_of: "[[db/region_of_Kazakhstan]]"
-capital: "[[db/Qonayev]]"
+  - "[[db/Karaganda_Region|Karaganda_Region]]"
+  - "[[db/Chuy_Region|Chuy_Region]]"
+  - "[[db/Issyk_Kul_Region|Issyk_Kul_Region]]"
+instance_of: "[[db/region_of_Kazakhstan|region_of_Kazakhstan]]"
+capital: "[[db/Qonayev|Qonayev]]"
 located_in_time_zone:
-  - "[[db/Asia_Almaty]]"
-  - "[[db/UTC+06_00]]"
-head_of_government: "[[db/Amandyk_Gabbasovich_Batalov]]"
-category_for_people_buried_here: "[[db/Q32374656]]"
+  - "[[db/Asia_Almaty|Asia_Almaty]]"
+  - "[[db/UTC+06_00|UTC+06_00]]"
+head_of_government: "[[db/Amandyk_Gabbasovich_Batalov|Amandyk_Gabbasovich_Batalov]]"
+category_for_people_buried_here: "[[db/Q32374656|Q32374656]]"
 described_by_source:
-  - "[[db/Great_dictionary_of_geographical_names]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1]]"
+  - "[[db/Great_dictionary_of_geographical_names|Great_dictionary_of_geographical_names]]"
+  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1|Armenian_Soviet_Encyclopedia,_vol._1]]"
 coordinate_location: Point(78.0 45.0)
-located_in_the_administrative_territorial_entity: "[[db/Kazakhstan]]"
-country: "[[db/Kazakhstan]]"
+located_in_the_administrative_territorial_entity: "[[db/Kazakhstan|Kazakhstan]]"
+country: "[[db/Kazakhstan|Kazakhstan]]"
 elevation_above_sea_level: 7010
 licence_plate_code:
   - B
@@ -82,7 +82,7 @@ geojsonFolder: ./Almaty/
 markerFolder: ./Almaty/
 ```
 
-#is_/same_as :: [[_Standards/WikiData/WD~Almaty_Region,186466]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Almaty_Region,186466|WD~Almaty_Region,186466]] 
 
 ## #has_/text_of_/abstract 
 

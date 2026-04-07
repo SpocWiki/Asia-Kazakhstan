@@ -1,22 +1,22 @@
 ---
 has_id_wikidata: Q177477
-place_served_by_transport_hub: "[[_Standards/WikiData/WD~Baikonur,165413]]"
-named_after: "[[_Standards/WikiData/WD~Baikonur,165413]]"
-operator: "[[_Standards/WikiData/WD~Roscosmos_State_Corporation,190795]]"
-instance_of: "[[_Standards/WikiData/WD~spaceport,194188]]"
+place_served_by_transport_hub: "[[_Standards/WikiData/WD~Baikonur,165413|WD~Baikonur,165413]]"
+named_after: "[[_Standards/WikiData/WD~Baikonur,165413|WD~Baikonur,165413]]"
+operator: "[[_Standards/WikiData/WD~Roscosmos_State_Corporation,190795|WD~Roscosmos_State_Corporation,190795]]"
+instance_of: "[[_Standards/WikiData/WD~spaceport,194188|WD~spaceport,194188]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_31,258129]]"
-  - "[[_Standards/WikiData/WD~Gagarin's_Start,2580456]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_200,4365460]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_110,4843259]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_45,4843262]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_81,4843263]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_109,4843261]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_250,4843264]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_90,4843265]]"
-  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_41,15735675]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kyzylorda_Region,485322]]"
-country: "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_31,258129|WD~Baikonur_Cosmodrome_Site_31,258129]]"
+  - "[[_Standards/WikiData/WD~Gagarin's_Start,2580456|WD~Gagarin's_Start,2580456]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_200,4365460|WD~Baikonur_Cosmodrome_Site_200,4365460]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_110,4843259|WD~Baikonur_Cosmodrome_Site_110,4843259]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_45,4843262|WD~Baikonur_Cosmodrome_Site_45,4843262]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_81,4843263|WD~Baikonur_Cosmodrome_Site_81,4843263]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_109,4843261|WD~Baikonur_Cosmodrome_Site_109,4843261]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_250,4843264|WD~Baikonur_Cosmodrome_Site_250,4843264]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_90,4843265|WD~Baikonur_Cosmodrome_Site_90,4843265]]"
+  - "[[_Standards/WikiData/WD~Baikonur_Cosmodrome_Site_41,15735675|WD~Baikonur_Cosmodrome_Site_41,15735675]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kyzylorda_Region,485322|WD~Kyzylorda_Region,485322]]"
+country: "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
 elevation_above_sea_level: 90
 inception: 1955-06-02T00:00:00Z
 date_of_official_opening: 1955-01-01T00:00:00Z

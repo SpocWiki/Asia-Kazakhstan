@@ -1,25 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q134485
-outflows: "[[_Standards/WikiData/WD~evaporation,132814]]"
+outflows: "[[_Standards/WikiData/WD~evaporation,132814|WD~evaporation,132814]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Ili_River,192567]]"
-  - "[[_Standards/WikiData/WD~Lepsy_River,1046455]]"
-  - "[[_Standards/WikiData/WD~Karatal_River,1429523]]"
-  - "[[_Standards/WikiData/WD~Ajaguz_River,2668113]]"
-  - "[[_Standards/WikiData/WD~Aksu_River,4059960]]"
+  - "[[_Standards/WikiData/WD~Ili_River,192567|WD~Ili_River,192567]]"
+  - "[[_Standards/WikiData/WD~Lepsy_River,1046455|WD~Lepsy_River,1046455]]"
+  - "[[_Standards/WikiData/WD~Karatal_River,1429523|WD~Karatal_River,1429523]]"
+  - "[[_Standards/WikiData/WD~Ajaguz_River,2668113|WD~Ajaguz_River,2668113]]"
+  - "[[_Standards/WikiData/WD~Aksu_River,4059960|WD~Aksu_River,4059960]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
-  - "[[_Standards/WikiData/WD~lake,23397]]"
-different_from: "[[_Standards/WikiData/WD~Lake_Baikal,5513]]"
-basin_country: "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-country: "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~endorheic_lake,9019918|WD~endorheic_lake,9019918]]"
+  - "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
+different_from: "[[_Standards/WikiData/WD~Lake_Baikal,5513|WD~Lake_Baikal,5513]]"
+basin_country: "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
+country: "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
 vertical_depth:
   - 6
   - 25
