@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./South_Kazakhstan/
 markerFolder: ./South_Kazakhstan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

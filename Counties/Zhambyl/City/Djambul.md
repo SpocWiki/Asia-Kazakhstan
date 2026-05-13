@@ -28,7 +28,7 @@ coordinates: [[Djambul]]
 markerFile: [[Djambul]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

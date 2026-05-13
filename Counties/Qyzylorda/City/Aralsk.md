@@ -30,7 +30,7 @@ coordinates: [[Aralsk]]
 markerFile: [[Aralsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

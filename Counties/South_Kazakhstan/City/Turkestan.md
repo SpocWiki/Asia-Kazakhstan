@@ -28,7 +28,7 @@ coordinates: [[Turkestan]]
 markerFile: [[Turkestan]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

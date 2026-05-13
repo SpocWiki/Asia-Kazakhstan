@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./West_Kazakhstan/
 markerFolder: ./West_Kazakhstan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

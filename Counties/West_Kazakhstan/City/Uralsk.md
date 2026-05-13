@@ -28,7 +28,7 @@ coordinates: [[Uralsk]]
 markerFile: [[Uralsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

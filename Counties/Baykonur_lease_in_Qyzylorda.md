@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Baykonur_lease_in_Qyzylorda/
 markerFolder: ./Baykonur_lease_in_Qyzylorda/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

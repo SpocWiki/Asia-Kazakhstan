@@ -28,7 +28,7 @@ coordinates: [[Taldy-Kurgan]]
 markerFile: [[Taldy-Kurgan]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

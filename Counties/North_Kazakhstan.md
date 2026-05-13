@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./North_Kazakhstan/
 markerFolder: ./North_Kazakhstan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

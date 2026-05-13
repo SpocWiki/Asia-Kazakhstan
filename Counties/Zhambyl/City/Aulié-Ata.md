@@ -28,7 +28,7 @@ coordinates: [[Aulié-Ata]]
 markerFile: [[Aulié-Ata]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
